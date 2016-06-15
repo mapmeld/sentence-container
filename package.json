@@ -1,0 +1,22 @@
+{
+  "name": "sentence-container",
+  "version": "1.0.0",
+  "description": "Find the smallest HTML element which contains a given sentence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapmeld/sentence-container.git"
+  },
+  "author": "The Asia Foundation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mapmeld/sentence-container/issues"
+  },
+  "homepage": "https://github.com/mapmeld/sentence-container#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  }
+}
