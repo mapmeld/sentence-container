@@ -1,5 +1,7 @@
 # sentence-container
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mapmeld/sentence-container.svg)](https://greenkeeper.io/)
+
 This is a NodeJS package for finding the smallest node which contains a given string. This makes it easier
 to do in-place replacements of these nodes for translations.
 
