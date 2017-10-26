@@ -18,5 +18,8 @@
   "homepage": "https://github.com/mapmeld/sentence-container#readme",
   "dependencies": {
     "cheerio": "^0.20.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
   }
 }
